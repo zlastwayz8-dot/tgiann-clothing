@@ -1,0 +1,4 @@
+config.webhooks = {
+    changePlayerModel = "",
+    boughtClothe = ""
+}
